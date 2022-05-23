@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+html{
+    font-size: 62,5%;
+}
+
+/* NAV */
+nav.navbar {
+    text-align: center;
+}
+
+
+/* Nav Logo */
+.navbar__name {
+    background-color: #a3080c;
+}
+.navbar__title{
+    font-size: 5rem ;
+    color: white;
+    margin: 20px 0;
+
+}
+
+.navbar__brand-logo{
+    width: 100px;
+}
+
+.sidebar__list-item-link{
+    text-decoration: none;
+    font-size:2rem
+}
+
+/* INFO*/
+.kfc__info{
+    background-color: #a3080c;
+}
+.kfc__title{
+    font-size: 4rem;
+    text-align: center;
+    margin: 30px 0;
+    color: white;
+
+}
+.kfc__content{
+    font-size: 3rem;
+    color: white;
+}
+.kfc__title-list-item{
+    font-size: 2.5rem;
+    color: white;
+}
+/* PRICE KFC */
+.kfc__price-title{
+    text-align: center;
+    margin: 30px 0;
+    font-size:3.2rem;
+}
+/* TABLE */
+table{
+    font-size: 1.6rem
+}
